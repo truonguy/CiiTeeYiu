@@ -7,11 +7,11 @@ const CONFIG = {
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Em cũng thế :< <33',
     btnNo: 'Không nha, anh trai :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh? <3',
+    question: 'Lí do vì sao?',
     btnReply: 'Gửi cho CiiTeeYiu <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    reply: 'Chịu thì chịu không chịu thì chịu <33333333',
+    mess: 'Anh biết mà :>>',
     messDesc: 'Ngồi mãi mới làm xong đấy :)).',
-    btnAccept: ' Ghee',
+    btnAccept: ' Okee',
     messLink: 'https://www.facebook.com/messages/t/100034685409368' 
 }
