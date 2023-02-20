@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "To NowTeeYiu",
-    introTitle: 'Uyên à',
+    titleWeb: "Gửi Bae",
+    introTitle: 'Em à',
     introDesc: `14/2 anh bị "Ngáo" nên ngồi làm cái này, xem thử nhé`,
     btnIntro: '^^Ấn vào đâyy^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên ?',
