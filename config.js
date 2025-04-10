@@ -1,7 +1,7 @@
 const CONFIG = {
-    titleWeb: "Gửi Bae",
+    titleWeb: "Gửi Babi",
     introTitle: 'Em à',
-    introDesc: `14/2 anh bị "Ngáo" nên ngồi làm cái này, xem thử nhé`,
+    introDesc: `Hôm nay anh bị "Ngáo" nên ngồi làm cái này, xem thử nhé`,
     btnIntro: '^^Ấn vào đâyy^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên ?',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Anh biết mà :>>',
     messDesc: 'Ngồi mãi mới làm xong đấy :)).',
     btnAccept: ' Okee',
-    messLink: 'https://www.facebook.com/messages/t/100034685409368' 
+    messLink: 'https://www.facebook.com/messages/e2ee/t/9193596110687760' 
 }
